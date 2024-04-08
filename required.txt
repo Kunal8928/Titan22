@@ -1,0 +1,15 @@
+Streamlit
+google-generativeai
+python-dotenv
+pypdf2
+langchain 
+faiss-cpu
+langchain_google_genai
+
+
+
+
+
+# for venv 
+#conda create -p venv 
+#pip install -r requirements.txt
